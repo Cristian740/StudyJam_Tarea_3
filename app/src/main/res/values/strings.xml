@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Heroes de la Biblia</string>
+    <string name="moises_descripcion">Moisés era un niño que nació en Egipto,
+        era perteneciente a la tribu de Leví y su nombre significaba “salvado por las aguas”.
+        Su padre se llamo Amram que en hebreo significaba “poderosa nación” y su madre se llamaba Jocabed,
+        que significaba “Dios es glorioso”.</string>
+    <string name="josue_descripcion">JOSUE, cuyo nombre significa libertador o salvador, se convirtió en líder de Israel
+        y bajo él se obtuvieron muchas grandes victorias.
+        El resultado de estas victorias ayudó a hacer posible que ingresaran en la tierra de la promesa como les fue prometido
+        por el Padre Celestial.</string>
+    <string name="sanson_descripcion">Sansón tenía una fuerza extraordinaria, por eso realizó grandes hazañas en su lucha
+        contra los filisteos . Sus arriesgadas proezas, incluyen la muerte de un león con sus propias manos,
+        la quema de los sembrados filisteos con trescientas zorras a las que había atado una antorcha en el rabo,
+        la muerte de mil filisteos con la quijada de un asno y también el traslado de las puertas de la ciudad de Gaza a sus espaldas hasta una montaña cerca de Hebrón.</string>
+    <string name="david_descripcion">David, es el rey más importante de todos; un rey muy valiente, que tenía además un notable talento artístico,
+        pues le gustaba la música, la danza y la poesía; capaz de realizar las hazañas más heroicas y también de ofender
+        gravemente a Dios. Pero el rey David supo reconocer sus errores y arrepentirse sinceramente de sus pecados confiando
+        en la misericordia infinita de Dios. De su descendencia nacería Jesucristo, el Mesías prometido y el salvador del mundo.</string>
+</resources>
